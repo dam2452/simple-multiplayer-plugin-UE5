@@ -29,6 +29,7 @@ Ensure you have the `OnlineSubsystem` and `OnlineSubsystemSteam` plugins enabled
 - `StartSession()`: Starts the current session, making it active.
 
 ### Menu (UserWidget)
+![image](https://github.com/dam2452/simple-multiplayer-plugin-UE5/assets/81230036/fadc3748-c3c0-4b9c-81c6-9d0807cf13ce)
 
 #### Methods:
 - `MenuSetup(int32 NumPublicConnections, FString TypeOfMatch, FString LobbyPath)`: Set up the menu with the desired parameters.
